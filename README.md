@@ -14,4 +14,5 @@ conn = psycopg2.connect(
     port="5432"
 )
 ```
+3. Both of the scripts can be executed to generate the scatter plots of route distances obtained from OSRM and the legacy database.
 
